@@ -1,6 +1,6 @@
 # Generate New Starter Password List
 
-Similar to [http://weakpasswords.net/](http://weakpasswords.net/), this creates a list of probable passwords for new starters in an AD environment. It uses the current data settings, but can also be extended to 'backdate' potential passwords for accounts created earlier.
+Similar to [http://weakpasswords.net/](http://weakpasswords.net/), this creates a list of probable passwords for new starters in an AD environment. It uses the current data settings, but can also be extended to 'backdate' potential passwords for accounts created earlier. It can also be augmented to use additional custom words, such as the name of the company.
 
 ---
 
