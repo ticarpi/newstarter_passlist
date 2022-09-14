@@ -11,7 +11,7 @@ Generate common passwords with a depth/age of 3 years:
 Generate common passwords for a specific company/domain target:  
 `.\newstarter_passlist.py -a companyname -a companylocation -a businesstype`
 
-Generate common passwords with a depth/age of 3 years:  
+Generate common passwords and output to a file:  
 `.\newstarter_passlist.py -o newstarter_yy.lst`
 
 ---
