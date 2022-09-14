@@ -6,8 +6,6 @@
 # Written by Andy Tyler (@ticarpi)        #
 ###########################################
 
-import re
-import sys
 import argparse
 import datetime
 
